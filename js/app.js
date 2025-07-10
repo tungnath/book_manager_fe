@@ -1,3 +1,4 @@
+// TODO unused. to be removed later
 let books = [];
 let selectedRow = null;
 let currentUser = null;
